@@ -1,0 +1,16 @@
+.representations-body{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+
+
+
+.representations{
+    margin: 40px 50px;
+}
+
+.fig-jam{
+    display: flex;
+    justify-content: center;
+}

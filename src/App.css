@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.nav-bar{
+  display: flex;
+  margin: 15px 50px;
+  font-size: 20px;
+}
+
+.left{
+  color: #5F22E1;
+  font-weight: bold;
+  flex-grow: 1;
+
+}
+
+.right{
+  align-content: right;
+  display: flex;
+}
+
+.nav-element{
+  margin-right: 35px;
+  text-decoration-line: none;
+  color: black;
+}
+
+.active{
+  color: #5F22E1;
+  font-weight: bold;
+}
