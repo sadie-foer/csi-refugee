@@ -15,7 +15,7 @@ function Home(){
             </div>
             <div className= "graphs">
                 {<Columns images={
-                    ['pie', 'pie2']}
+                    ['pie', 'pie2', 'pie3']}
                 />}
             </div>
             <div className= "personas">
